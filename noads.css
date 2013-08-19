@@ -1,0 +1,76 @@
+/* --------------
+ *
+ *	YWN Ads
+ *
+ *
+ * --------------- */
+
+/* little ads on top */
+.topads {
+	display: none;
+}
+
+/* Randomized ads on top of all pages */
+.rndm {
+	display: none;
+}
+
+/* Google ads in the header */
+#google_ads_frame1 {
+	display: none;
+}
+
+#google_ads_frame2 {
+	display: none;
+}
+
+/* Make content a little wider */
+
+div.content {
+	width: 888px;
+}
+
+/* Ads in articles and comments*/
+#inArticle {
+	display :none;
+}
+
+.inComment {
+	display: none;
+}
+
+/* Bottom overlay */
+#overlaySecondDiv {
+	display: none;
+}
+
+/* Some ads are served as iframes */
+iframe {
+	display: none;
+}
+
+.topbigad { 
+	display: none;
+}
+
+/* Homepage sidebar */
+
+.rndm7 {
+	display: none;
+}
+
+.listingouter {
+	display: none;
+}
+
+/* The overlay ad that sometimes appears. */
+#overlayDiv {
+	display: none;
+	visibility: hidden;
+}
+
+/* There's an ad that appears on the bottom too... */
+div.#overlaySecondDiv {
+	display: none !important;
+	visibility: hidden;
+}
